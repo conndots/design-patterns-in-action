@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding : utf-8 -*-
+
 """
 Prototype pattern: Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype. Please notice the difference between the concept of shallow copy and deep copy.
 """

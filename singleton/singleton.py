@@ -6,6 +6,7 @@ Singleton pattern:
 ensure a class only has one instance, and provide a global point of access to it.
 There is a discussion here: http://stackoverflow.com/questions/6760685/creating-a-singleton-in-python
 The metaclass in python is useful here. I use the grammar defined in Python 3.
+I am a rockie in Python. After sometime to learn and read enough open source codes in classic libraries, I could give a better and more useful codes here.
 """
 
 class SingletonMeta(type):

@@ -40,6 +40,7 @@ class Figure(object):
 	def __init__(self, name, url):
 		self._name = name
 		self._url = url
+		#print("init figure")
 
 	"factory method"
 	def get_manipulator(self):
