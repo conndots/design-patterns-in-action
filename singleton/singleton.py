@@ -13,7 +13,7 @@ class SingletonMeta(type):
 	__singletons = {}
 	def __call__(cls, *args, **kws):
 		if cls not in cls.__singletons:
-			cls.__singletons[cls] = super(Singleton, cls).__call__(*args, **kws)
+			cls.__singletons[cls] = super(SingletonMeta, cls).__call__(*args, **kws)
 		return cls.__singletons[cls]
 
 class A(metaclass=SingletonMeta):
@@ -22,7 +22,7 @@ class A(metaclass=SingletonMeta):
 		self.a = 5
 		self.b = 6
 
-class B(metaclass=Singleton):
+class B(metaclass=SingletonMeta):
 	def __init__(self):
 		print("initiate the singleton class object: " + B.__name__)
 
