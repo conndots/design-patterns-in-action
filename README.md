@@ -12,7 +12,8 @@ Now, I have updated several design patterns as follows:
 
 ###Structual Patterns  
 * [**Adapter**](https://github.com/conndots/python-design-patterns/tree/master/adapter) *Example code snippets:* 
-* [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge) *Example code snippets:* 
+* [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge) *Example code snippets:*   
+  
 ###Behavioral Patterns  
      
 ##Reference:   
