@@ -3,8 +3,10 @@
 
 """
 Composite Pattern:
-Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
-In this piece of code, we animate the structure of HTML document, which is a tree structure. Every element is a node and some of them can have children elements and have attributes.
+Compose objects into tree structures to represent part-whole hierarchies. 
+Composite lets clients treat individual objects and compositions of objects uniformly.
+In this piece of code, we animate the structure of HTML document, which is a tree structure. 
+Every element is a node and some of them can have children elements and have attributes.
 """
 import functools
 
@@ -52,8 +54,10 @@ class HTMLTag(HTMLElement):
 
 	def __str__(self):
 		return '<' + self._tag_type + \
-				(" " + functools.reduce(lambda x, y: x + ' ' + y, [x + "='" + y + "'" for x, y in self._attrs.items()]) if len(self._attrs) > 0 else '') \
-						+ '>' + ((functools.reduce(lambda x, y: x + y, map(lambda x : x.__str__(), self._children))) if len(self._children) > 0 else '') \
+				(" " + functools.reduce(lambda x, y: x + ' ' + y, [x + "='" + y + "'" for x, y in self._attrs.items()]) \
+					if len(self._attrs) > 0 else '') \
+						+ '>' + ((functools.reduce(lambda x, y: x + y, map(lambda x : x.__str__(), self._children))) \
+							if len(self._children) > 0 else '') \
 								+ '</' + self._tag_type + '>'
 
 #composite class
@@ -68,7 +72,9 @@ class HTMLEmptyTag(HTMLElement):
 	    return self._tag_type
 
 	def __str__(self):
-		return '<' + self._tag_type + (" " + functools.reduce(lambda x, y: x + ' ' + y, [x + "='" + y + "'" for x, y in self._attrs.items()]) if len(self._attrs) > 0 else '') + '/>'
+		return '<' + self._tag_type + (" " + \
+			functools.reduce(lambda x, y: x + ' ' + y, [x + "='" + y + "'" for x, y in self._attrs.items()]) \
+				if len(self._attrs) > 0 else '') + '/>'
 
 
 #Composite class
@@ -102,8 +108,11 @@ class HTMLContent(HTMLElement):
 
 def main():
 	html = HTMLTag("html")
-	html.append_child(HTMLTag("head").append(HTMLTag("title").append_content("Python design pattern: composite")).append(HTMLTag("srcipt", src="./srcipt/jquery.min.js")))
-	html.append_child(HTMLTag("body").append(HTMLTag("p", width="100%", height="500px").append("Is composite a design pattern?").append_child(HTMLEmptyTag("br")).append("Yes, it is.")).append(HTMLTag("div", width="100%", height="400px").append(HTMLEmptyTag("img", href="./img/a.jpg"))))
+	html.append_child(HTMLTag("head").append(HTMLTag("title").append("Python design pattern: composite"))\
+		.append(HTMLTag("srcipt", src="./srcipt/jquery.min.js")))
+	html.append_child(HTMLTag("body").append(HTMLTag("p", width="100%", height="500px").append("Is composite a design pattern?")\
+		.append(HTMLEmptyTag("br")).append("Yes, it is.")).append(HTMLTag("div", width="100%", height="400px")\
+			.append(HTMLEmptyTag("img", href="./img/a.jpg"))))
 
 	print(html)
 
