@@ -4,16 +4,17 @@ Use python to implement classic design patterns in Object-Oriented Programming. 
   
 Now, I have updated several design patterns as follows:  
 ###Creational Patterns
-* [**Abstract Factory**](https://github.com/conndots/python-design-patterns/tree/master/abstract%20factory) *Example code snippets:* 
-* [**Builder**](https://github.com/conndots/python-design-patterns/tree/master/builder) *Example code snippets:* 
-* [**Prototype**](https://github.com/conndots/python-design-patterns/tree/master/prototype) *Example code snippets:* 
-* [**Factory Method**](https://github.com/conndots/python-design-patterns/tree/master/factory%20method) *Example code snippets:*  
-* [**Singleton**](https://github.com/conndots/python-design-patterns/tree/master/singleton) *Example code snippets:*   
+* [**Abstract Factory**](https://github.com/conndots/python-design-patterns/tree/master/abstract%20factory) 
+* [**Builder**](https://github.com/conndots/python-design-patterns/tree/master/builder) 
+* [**Prototype**](https://github.com/conndots/python-design-patterns/tree/master/prototype) 
+* [**Factory Method**](https://github.com/conndots/python-design-patterns/tree/master/factory%20method) 
+* [**Singleton**](https://github.com/conndots/python-design-patterns/tree/master/singleton) 
 
 ###Structual Patterns  
-* [**Adapter**](https://github.com/conndots/python-design-patterns/tree/master/adapter) *Example code snippets:* 
-* [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge) *Example code snippets:*   
-* [**Composite**](https://github.com/conndots/python-design-patterns/tree/master/composite) *Example code snippets:*   
+* [**Adapter**](https://github.com/conndots/python-design-patterns/tree/master/adapter) 
+* [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge)
+* [**Composite**](https://github.com/conndots/python-design-patterns/tree/master/composite) 
+* [**Decorator**](https://github.com/conndots/python-design-patterns/tree/master/Decorator)
   
 ###Behavioral Patterns  
      
