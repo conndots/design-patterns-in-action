@@ -14,7 +14,8 @@ Now, I have updated several design patterns as follows:
 * [**Adapter**](https://github.com/conndots/python-design-patterns/tree/master/adapter) 
 * [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge)
 * [**Composite**](https://github.com/conndots/python-design-patterns/tree/master/composite) 
-* [**Decorator**](https://github.com/conndots/python-design-patterns/tree/master/Decorator)
+* [**Decorator**](https://github.com/conndots/python-design-patterns/tree/master/decorator)
+* [**Facade**](https://github.com/conndots/python-design-patterns/tree/master/facade)
   
 ###Behavioral Patterns  
      
