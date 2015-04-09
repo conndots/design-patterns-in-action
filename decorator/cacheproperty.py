@@ -4,7 +4,6 @@
 """
 Decorator pattern. It is a feature for python.
 Adding additional responsibilities to an object or a function.
-In this demo, every time son makes a plan or write a dairy, the decorator will send a message to his mum.
 Another example from https://github.com/brennerm/PyTricks/blob/master/cacheproperty.py
 """
 class PropertyCache:
