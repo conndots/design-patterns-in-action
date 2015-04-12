@@ -16,7 +16,8 @@ Now, I have updated several design patterns as follows:
 * [**Composite**](https://github.com/conndots/python-design-patterns/tree/master/composite) 
 * [**Decorator**](https://github.com/conndots/python-design-patterns/tree/master/decorator)
 * [**Facade**](https://github.com/conndots/python-design-patterns/tree/master/facade)
-* [**Flyweight**](https://github.com/conndots/python-design-patterns/tree/master/flyweight)
+* [**Flyweight**](https://github.com/conndots/python-design-patterns/tree/master/flyweight) 
+* [**Proxy**](https://github.com/conndots/python-design-patterns/tree/master/proxy) [copy on write with Proxy](https://github.com/conndots/python-design-patterns/tree/master/proxy/proxy_copy_on_write.py)
   
 ###Behavioral Patterns  
      
