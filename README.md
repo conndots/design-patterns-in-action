@@ -20,7 +20,8 @@ Now, I have updated several design patterns as follows:
 * [**Proxy:**](https://github.com/conndots/python-design-patterns/tree/master/proxy) [copy on write with Proxy](https://github.com/conndots/python-design-patterns/tree/master/proxy/proxy_copy_on_write.py)
   
 ###Behavioral Patterns  
-[**Chain of Responsibility**](https://github.com/conndots/python-design-patterns/tree/master/chain%20of%20responsibility)
+* [**Chain of Responsibility**](https://github.com/conndots/python-design-patterns/tree/master/chain%20of%20responsibility)  
+
      
 ##Reference:   
 * *Design Patterns-Elements of Reusable Object-Oriented Software*.
