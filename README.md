@@ -21,6 +21,7 @@ Now, I have updated several design patterns as follows:
   
 ###Behavioral Patterns  
 * [**Chain of Responsibility**](https://github.com/conndots/python-design-patterns/tree/master/chain%20of%20responsibility)  
+* [**Command**](https://github.com/conndots/python-design-patterns/tree/master/command)
 
      
 ##Reference:   
