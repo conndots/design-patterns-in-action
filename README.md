@@ -1,6 +1,6 @@
-python-design-patterns
+design-patterns-in-action
 ===============
-Use python to implement classic design patterns in Object-Oriented Programming. This repository may also include some example code snippets borrowed from open source codes in classic python libraries I've read. I will update them continually.    
+Use python to implement classic design patterns in Object-Oriented Programming. This repository also include some example code snippets borrowed from open source codes in classic python libraries I've read. I will update them continually.    
   
 Now, I have updated several design patterns as follows:  
 ###Creational Patterns
