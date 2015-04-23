@@ -22,7 +22,9 @@ Now, I have updated several design patterns as follows:
 ###Behavioral Patterns  
 * [**Chain of Responsibility**](https://github.com/conndots/python-design-patterns/tree/master/chain%20of%20responsibility)  
 * [**Command**](https://github.com/conndots/python-design-patterns/tree/master/command)
-
+* [**Interpretor**](https://github.com/conndots/python-design-patterns/tree/master/interpretor)  
+* [**Iterator**](https://github.com/conndots/python-design-patterns/tree/master/iterator)  
+* [**Mediator**](https://github.com/conndots/python-design-patterns/tree/master/mediator)
      
 ##Reference:   
 * *Design Patterns-Elements of Reusable Object-Oriented Software*.
