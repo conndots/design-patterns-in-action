@@ -25,6 +25,7 @@ Now, I have updated several design patterns as follows:
 * [**Interpretor**](https://github.com/conndots/python-design-patterns/tree/master/interpretor)  
 * [**Iterator**](https://github.com/conndots/python-design-patterns/tree/master/iterator)  
 * [**Mediator**](https://github.com/conndots/python-design-patterns/tree/master/mediator)
+* [**Memento**](https://github.com/conndots/python-design-patterns/tree/master/memento)
      
 ##Reference:   
 * *Design Patterns-Elements of Reusable Object-Oriented Software*.
