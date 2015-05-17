@@ -4,28 +4,28 @@ Use python to implement classic design patterns in Object-Oriented Programming. 
   
 Now, I have updated several design patterns as follows:  
 ###Creational Patterns
-* [**Abstract Factory**](https://github.com/conndots/python-design-patterns/tree/master/abstract%20factory) 
-* [**Builder**](https://github.com/conndots/python-design-patterns/tree/master/builder) 
-* [**Prototype**](https://github.com/conndots/python-design-patterns/tree/master/prototype) 
-* [**Factory Method**](https://github.com/conndots/python-design-patterns/tree/master/factory%20method) 
-* [**Singleton**](https://github.com/conndots/python-design-patterns/tree/master/singleton) 
+* [**Abstract Factory**](https://github.com/conndots/ddesign-patterns-in-action/tree/master/abstract%20factory) 
+* [**Builder**](https://github.com/conndots/design-patterns-in-action/tree/master/builder) 
+* [**Prototype**](https://github.com/conndots/design-patterns-in-action/tree/master/prototype) 
+* [**Factory Method**](https://github.com/conndots/design-patterns-in-action/tree/master/factory%20method) 
+* [**Singleton**](https://github.com/conndots/design-patterns-in-action/tree/master/singleton) 
 
 ###Structual Patterns  
-* [**Adapter**](https://github.com/conndots/python-design-patterns/tree/master/adapter) 
-* [**Bridge**](https://github.com/conndots/python-design-patterns/tree/master/bridge)
-* [**Composite**](https://github.com/conndots/python-design-patterns/tree/master/composite) 
-* [**Decorator**](https://github.com/conndots/python-design-patterns/tree/master/decorator)
-* [**Facade**](https://github.com/conndots/python-design-patterns/tree/master/facade)
-* [**Flyweight**](https://github.com/conndots/python-design-patterns/tree/master/flyweight) 
-* [**Proxy:**](https://github.com/conndots/python-design-patterns/tree/master/proxy) [copy on write with Proxy](https://github.com/conndots/python-design-patterns/tree/master/proxy/proxy_copy_on_write.py)
+* [**Adapter**](https://github.com/conndots/design-patterns-in-action/tree/master/adapter) [Adapter to implement Duck Type in java](https://github.com/conndots/design-patterns-in-action/tree/master/adapter/Adapter2Duck.java)
+* [**Bridge**](https://github.com/conndots/design-patterns-in-action/tree/master/bridge)
+* [**Composite**](https://github.com/conndots/design-patterns-in-action/tree/master/composite) 
+* [**Decorator**](https://github.com/conndots/design-patterns-in-action/tree/master/decorator)
+* [**Facade**](https://github.com/conndots/design-patterns-in-action/tree/master/facade)
+* [**Flyweight**](https://github.com/conndots/design-patterns-in-action/tree/master/flyweight) 
+* [**Proxy:**](https://github.com/conndots/design-patterns-in-action/tree/master/proxy) [copy on write with Proxy](https://github.com/conndots/design-patterns-in-action/tree/master/proxy/proxy_copy_on_write.py)
   
 ###Behavioral Patterns  
-* [**Chain of Responsibility**](https://github.com/conndots/python-design-patterns/tree/master/chain%20of%20responsibility)  
-* [**Command**](https://github.com/conndots/python-design-patterns/tree/master/command)
-* [**Interpretor**](https://github.com/conndots/python-design-patterns/tree/master/interpretor)  
-* [**Iterator**](https://github.com/conndots/python-design-patterns/tree/master/iterator)  
-* [**Mediator**](https://github.com/conndots/python-design-patterns/tree/master/mediator)
-* [**Memento**](https://github.com/conndots/python-design-patterns/tree/master/memento)
+* [**Chain of Responsibility**](https://github.com/conndots/design-patterns-in-action/tree/master/chain%20of%20responsibility)  
+* [**Command**](https://github.com/conndots/design-patterns-in-action/tree/master/command)
+* [**Interpretor**](https://github.com/conndots/design-patterns-in-action/tree/master/interpretor)  
+* [**Iterator**](https://github.com/conndots/design-patterns-in-action/tree/master/iterator)  
+* [**Mediator**](https://github.com/conndots/design-patterns-in-action/tree/master/mediator)
+* [**Memento**](https://github.com/conndots/design-patterns-in-action/tree/master/memento)
      
 ##Reference:   
 * *Design Patterns-Elements of Reusable Object-Oriented Software*.
