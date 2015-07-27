@@ -1,6 +1,6 @@
 design-patterns-in-action
 ===============
-Use python to implement classic design patterns in Object-Oriented Programming. This repository also include some example code snippets borrowed from open source codes in classic python libraries I've read. I will update them continually.    
+Use Python/Ruby/Java to implement classic design patterns in Object-Oriented Programming. This repository also include some example code snippets borrowed from open source codes in classic python libraries I've read. I will update them continually.    
   
 Now, I have updated several design patterns as follows:  
 ###Creational Patterns
@@ -14,7 +14,7 @@ Now, I have updated several design patterns as follows:
 * [**Adapter**](https://github.com/conndots/design-patterns-in-action/tree/master/adapter) [Adapter to implement Duck Type in java](https://github.com/conndots/design-patterns-in-action/tree/master/adapter/Adapter2Duck.java)
 * [**Bridge**](https://github.com/conndots/design-patterns-in-action/tree/master/bridge)
 * [**Composite**](https://github.com/conndots/design-patterns-in-action/tree/master/composite) 
-* [**Decorator**](https://github.com/conndots/design-patterns-in-action/tree/master/decorator)
+* [**Decorator**](https://github.com/conndots/design-patterns-in-action/tree/master/decorator) [Using Java annotations to implement decorator pattern](https://github.com/conndots/design-patterns-in-action/tree/master/decorator/RefactorTestUtil) [cache property](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/cacheproperty.py)
 * [**Facade**](https://github.com/conndots/design-patterns-in-action/tree/master/facade)
 * [**Flyweight**](https://github.com/conndots/design-patterns-in-action/tree/master/flyweight) 
 * [**Proxy:**](https://github.com/conndots/design-patterns-in-action/tree/master/proxy) [copy on write with Proxy](https://github.com/conndots/design-patterns-in-action/tree/master/proxy/proxy_copy_on_write.py)
