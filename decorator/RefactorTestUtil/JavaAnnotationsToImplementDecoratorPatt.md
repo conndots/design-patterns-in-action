@@ -369,7 +369,7 @@ public class TypeUtil {
   
 比如我们有4个方法：  
   
-```
+```java
 public class Util {
     public static String refactorFrom(String message, int time) {
         return message + "(" + time + ")";
@@ -403,7 +403,7 @@ public class Util {
 
 refactorTo0, refactorTo1, refactorTo2都是重构自refactorFrom。其中refactorTo1更换了参数类型的顺序，使用了paramClassIndex2ThisParams参数。而refactorTo2是一个会被报告错误的重构函数。我们做如下的测试：  
   
-```
+```java
 public RefactorTestUtilTest {
     @Test
     public void testDecorateFunctionWithRefactorTest() {
