@@ -1,4 +1,3 @@
-import com.meituan.rc.risk.util.TypeUtil;
 import org.slf4j.Logger;
 
 import java.lang.annotation.ElementType;
