@@ -11,7 +11,7 @@ Decorator是一个经典的结构式设计模式，有着非常广泛的应用�
 #Python的decorator
 使用python能够非常轻易地实现装饰器@refactor_test。代码如下([GitHub](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/RefactorTestUtil/refactor_test.py))：  
   
-```
+```python
 import functools
 import logging
 
@@ -59,7 +59,7 @@ if __name__ == '__main__':
   
 RefactorUtil.java ([GitHub](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/RefactorTestUtil/RefactorTestUtil.java)):  
   
-```
+```java
 import org.slf4j.Logger;
 
 import java.lang.annotation.ElementType;
@@ -199,7 +199,7 @@ RefactorTestUtil.decorateFunctionWithRefactorTest()方法通过传入对应类�
   
 TypeUtil.java([GitHub](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/RefactorTestUtil/TypeUtil.java)):  
   
-```
+```java
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.LinkedList;
