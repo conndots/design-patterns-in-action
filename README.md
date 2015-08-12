@@ -25,7 +25,8 @@ Now, I have updated several design patterns as follows:
 * [**Interpretor**](https://github.com/conndots/design-patterns-in-action/tree/master/interpretor)  
 * [**Iterator**](https://github.com/conndots/design-patterns-in-action/tree/master/iterator)  
 * [**Mediator**](https://github.com/conndots/design-patterns-in-action/tree/master/mediator)
-* [**Memento**](https://github.com/conndots/design-patterns-in-action/tree/master/memento)
+* [**Memento**](https://github.com/conndots/design-patterns-in-action/tree/master/memento)  
+* [**Observer**](https://github.com/conndots/design-patterns-in-action/tree/master/observer)
      
 ##Reference:   
 * *Design Patterns-Elements of Reusable Object-Oriented Software*.
