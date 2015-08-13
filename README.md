@@ -8,7 +8,7 @@ Now, I have updated several design patterns as follows:
 * [**Builder**](https://github.com/conndots/design-patterns-in-action/tree/master/builder) 
 * [**Prototype**](https://github.com/conndots/design-patterns-in-action/tree/master/prototype) 
 * [**Factory Method**](https://github.com/conndots/design-patterns-in-action/tree/master/factory%20method) 
-* [**Singleton**](https://github.com/conndots/design-patterns-in-action/tree/master/singleton) 
+* [**Singleton**](https://github.com/conndots/design-patterns-in-action/tree/master/singleton)  [从Java实现Singleton模式的一个bug到Java内存模型](https://github.com/conndots/design-patterns-in-action/tree/master/singleton/README.md)
 
 ###Structual Patterns  
 * [**Adapter**](https://github.com/conndots/design-patterns-in-action/tree/master/adapter) [Adapter to implement Duck Type in java](https://github.com/conndots/design-patterns-in-action/tree/master/adapter/Adapter2Duck.java)
