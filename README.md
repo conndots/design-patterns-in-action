@@ -17,7 +17,7 @@ Now, I have updated several design patterns as follows:
 * [**Decorator**](https://github.com/conndots/design-patterns-in-action/tree/master/decorator) [{Using Java annotations to implement decorator pattern}](https://github.com/conndots/design-patterns-in-action/tree/master/decorator/RefactorTestUtil) [{cache property}](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/cacheproperty.py) [{Jointer in Guava}](https://github.com/conndots/design-patterns-in-action/blob/master/decorator/Jointer.java)  
 * [**Facade**](https://github.com/conndots/design-patterns-in-action/tree/master/facade)
 * [**Flyweight**](https://github.com/conndots/design-patterns-in-action/tree/master/flyweight)
-* [**Proxy:**](https://github.com/conndots/design-patterns-in-action/tree/master/proxy) [{copy on write with Proxy}](https://github.com/conndots/design-patterns-in-action/tree/master/proxy/proxy_copy_on_write.py)
+* [**Proxy**](https://github.com/conndots/design-patterns-in-action/tree/master/proxy) [{copy on write with Proxy}](https://github.com/conndots/design-patterns-in-action/tree/master/proxy/proxy_copy_on_write.py)
 
 ###Behavioral Patterns  
 * [**Chain of Responsibility**](https://github.com/conndots/design-patterns-in-action/tree/master/chain%20of%20responsibility)  
